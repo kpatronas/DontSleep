@@ -23,8 +23,7 @@ Adjust the movement interval and click Start
 Click Stop when you no longer need it
 
 ⚠️ Note
-If the .exe is blocked, right-click it, go to Properties, and check Unblock.
-If needed, download the .zip version.
+If needed, download the .exe version in the ziped file.
 
 
 📜 License
