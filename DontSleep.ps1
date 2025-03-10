@@ -4,7 +4,7 @@ Add-Type -AssemblyName System.Drawing
 
 # Create GUI Form
 $Form = New-Object System.Windows.Forms.Form
-$Form.Text = "Mouse Jiggler"
+$Form.Text = "Dont Sleep"
 $Form.Size = New-Object System.Drawing.Size(300, 200)
 $Form.StartPosition = "CenterScreen"
 
