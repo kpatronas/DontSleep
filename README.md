@@ -1,4 +1,4 @@
-🖱️ DontSleep - Prevent Your PC from Going Idle
+#🖱️ DontSleep - Prevent Your PC from Going Idle
 
 DontSleep is a lightweight utility that prevents your computer from going to sleep or appearing idle in applications like Microsoft Teams, Slack, and Zoom. It works by subtly moving the mouse cursor back and forth at a defined interval.
 
