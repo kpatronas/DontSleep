@@ -13,7 +13,7 @@ DontSleep is a lightweight utility that prevents your computer from going to sle
 
 ✔️ Runs silently in the background
 
-✔️ No installation required – just run the EXE
+✔️ No installation required – just run the script / exe
 
 
 🚀 How to Use
