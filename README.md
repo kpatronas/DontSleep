@@ -4,10 +4,15 @@ DontSleep is a lightweight utility that prevents your computer from going to sle
 
 
 🔹 Features
+
 ✔️ Moves the mouse by 1 pixel back and forth
+
 ✔️ Prevents system sleep, screen lock, and idle status
+
 ✔️ User-defined time interval for movement
+
 ✔️ Runs silently in the background
+
 ✔️ No installation required – just run the EXE
 
 
